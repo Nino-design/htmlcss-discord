@@ -92,3 +92,47 @@ ul li{
     border-radius: 14px;
     color: black;
 }
+
+.banner{
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    background-position: center;
+    padding: 8em 0;
+}
+
+.banner-content{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.banner-title{
+    font-size: 2.5em;
+    padding-bottom: 1em;
+    color: white;
+}
+
+.banner-text{
+    color: white;
+    padding-bottom: 2em;
+    line-height: 2em;
+}
+
+.banner-button{
+    text-decoration: none;
+    padding-top: 2em;
+}
+
+.banner-button{
+    margin-right: 1.2em;
+    padding: 0.6em 1em;
+    background-color: white;
+    border-radius: 14px;
+    color: black;
+}
+
+.banner-button.black{
+    color:white;
+    background-color: black;
+}
