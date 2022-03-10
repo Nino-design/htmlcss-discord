@@ -128,7 +128,7 @@ ul li{
 
 .banner-button{
     text-decoration: none;
-    padding-top: 2em;
+    padding-top: 3em;
 }
 
 .banner-button{
@@ -139,18 +139,31 @@ ul li{
     color: black;
 }
 
+.first-block{
+    padding-top: 4em;
+}
+
+.second-block{
+    padding-top: 4em;
+}
+
 .banner-button.black{
     color:white;
     background-color: black;
 }
 
+
+
 .col-image{
     width: 70%;
     text-align: center;
+    
 }
 
-.col-image img{
+.second-block > img{
     width: 60%;
+    margin-left: 3em;
+
 }
 
 .col-text{
